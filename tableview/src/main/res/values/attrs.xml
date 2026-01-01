@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TableView">
+        <attr name="cellTextSize" format="dimension" />
+        <attr name="cellPadding" format="dimension" />
+        <attr name="headerBackground" format="color" />
+        <attr name="dividerColor" format="color" />
+    </declare-styleable>
+</resources>
